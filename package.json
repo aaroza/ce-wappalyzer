@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "wappalyzer",
+        "scope": null,
+        "escapedName": "wappalyzer",
+        "name": "wappalyzer",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/AAROZA/office-work/ce-crawling"
+    ]
+  ],
+  "_from": "wappalyzer@latest",
+  "_id": "wappalyzer@4.1.0",
+  "_inCache": true,
+  "_location": "/wappalyzer",
+  "_nodeVersion": "7.7.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/wappalyzer-4.1.0.tgz_1494661315864_0.13691161200404167"
+  },
+  "_npmUser": {
+    "name": "wappalyzer",
+    "email": "info@wappalyzer.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "wappalyzer",
+    "scope": null,
+    "escapedName": "wappalyzer",
+    "name": "wappalyzer",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wappalyzer/-/wappalyzer-4.1.0.tgz",
+  "_shasum": "16c55cfb1b960c088654a96f6af7803cf4ac01c2",
+  "_shrinkwrap": null,
+  "_spec": "wappalyzer",
+  "_where": "/Users/AAROZA/office-work/ce-crawling",
+  "author": {
+    "name": "Elbert Alias"
+  },
+  "bugs": {
+    "url": "https://github.com/AliasIO/Wappalyzer/issues"
+  },
+  "dependencies": {
+    "phantomjs-prebuilt": "*"
+  },
+  "description": "Uncovers the technologies used on websites",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "16c55cfb1b960c088654a96f6af7803cf4ac01c2",
+    "tarball": "https://registry.npmjs.org/wappalyzer/-/wappalyzer-4.1.0.tgz"
+  },
+  "files": [
+    "apps.json",
+    "driver.js",
+    "wappalyzer.js"
+  ],
+  "homepage": "https://github.com/AliasIO/Wappalyzer",
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "wappalyzer",
+      "email": "info@wappalyzer.com"
+    }
+  ],
+  "name": "wappalyzer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliasIO/Wappalyzer.git"
+  },
+  "scripts": {},
+  "version": "4.1.0"
+}
